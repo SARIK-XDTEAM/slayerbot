@@ -10,9 +10,9 @@
 
 # Support
 
-<a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 
@@ -23,7 +23,7 @@
 
 <a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
-<a href="https://app.gitbook.com/@starkgangz/s/fridayuserbot/"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
+<a href="https://app.gitbook.com/@starkgang/s/fridayuserbot/"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
 
 
 
@@ -31,7 +31,7 @@
 
 # Deploying To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkGang/FridayUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SARIK-XDTEAM/SarikSarikxdbot)
 
 
 
@@ -52,7 +52,7 @@
 Simply clone the repository and run the main file:
 ```sh
 # Install Git First.
-git clone https://github.com/starkGang/FridayUserbot
+git clone https://github.com/SARIK-XDTEAM/SarikSarikxdbot
 # Open Git Cloned File
 cd FridayUserbot
 # Config Virtual Env
