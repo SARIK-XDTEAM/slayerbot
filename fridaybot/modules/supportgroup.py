@@ -11,7 +11,7 @@ from fridaybot import CMD_HELP
 from fridaybot.utils import friday_on_cmd
 
 
-@friday.on(friday_on_cmd("friday"))
+@friday.on(friday_on_cmd("slayer"))
 async def _(event):
     if event.fwd_from:
         return
@@ -22,7 +22,7 @@ async def _(event):
     await event.edit("for our support group")
     animation_chars = [
         "Click here",
-        "[Support Group](https://t.me/FRIDAYSUPPORTOFFICIAL)",
+        "[Support Group](https://t.me/slayer_userbot_support)",
     ]
 
     for i in animation_ttl:
@@ -34,7 +34,7 @@ async def _(event):
 CMD_HELP.update(
     {
         "supportgroup": "**Support Group**\
-\n\n**Syntax : **`.friday`\
+\n\n**Syntax : **`.slayer`\
 \n**Usage :** Creates link for Friday support group."
     }
 )
