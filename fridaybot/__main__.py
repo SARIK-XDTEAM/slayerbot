@@ -10,7 +10,7 @@ from fridaybot.Configs import Config
 from fridaybot.utils import load_module, start_assistant
 from var import Var
 
-sed = logging.getLogger("Friday")
+sed = logging.getLogger("Slayer")
 
 
 async def add_bot(bot_token):
@@ -52,7 +52,7 @@ if Config.ENABLE_ASSISTANTBOT == "ENABLE":
             start_assistant(shortname.replace(".py", ""))
     sed.info("Slayer And Assistant Bot Have Been Installed Successfully !")
 else:
-    sed.info("Friday Has Been Installed Sucessfully !")
+    sed.info("ֆʟǟʏɛʀ υѕєявσт ™  Been Installed Sucessfully !")
     sed.info("You Can Visit @deviluserbot For Any Support Or Doubts")
 
 if len(argv) not in (1, 3, 4):
