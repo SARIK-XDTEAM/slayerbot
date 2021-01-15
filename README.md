@@ -12,18 +12,7 @@
 
 <a href="https://t.me/slayer_userbot_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-
-
-
-
-
-# Method
-
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
-<a href="https://app.gitbook.com/@starkgang/s/fridayuserbot/"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
+<a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a
 
 
 
@@ -54,7 +43,7 @@ Simply clone the repository and run the main file:
 # Install Git First.
 git clone https://github.com/SARIK-XDTEAM/slayerbot
 # Open Git Cloned File
-cd FridayUserbot
+cd slayerbot
 # Config Virtual Env
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
