@@ -1,5 +1,5 @@
-<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/22535f8051a58af113586.jpg" width="5000"></a></p> 
-<h1 align="center"><b>FRIDAY-USERBOT 🇮🇳 </b></h1>
+<p align="center"><a href="https://t.me/slayer_userbot_support"><img src="https://telegra.ph/file/c8bef84646680c610f509.jpg" width="5000"></a></p> 
+<h1 align="center"><b>Slayer-USERBOT 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Telethon. Powered By NoSpam+</h4>
 
 
@@ -10,7 +10,7 @@
 
 # Support
 
-<a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/slayer_userbot_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
@@ -31,7 +31,7 @@
 
 # Deploying To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SARIK-XDTEAM/SarikSarikxdbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SARIK-XDTEAM/slayerbot)
 
 
 
@@ -52,7 +52,7 @@
 Simply clone the repository and run the main file:
 ```sh
 # Install Git First.
-git clone https://github.com/SARIK-XDTEAM/SarikSarikxdbot
+git clone https://github.com/SARIK-XDTEAM/slayerbot
 # Open Git Cloned File
 cd FridayUserbot
 # Config Virtual Env
