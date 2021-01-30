@@ -1,5 +1,5 @@
 <p align="center"><a href="https://t.me/slayer_userbot_support"><img src="https://telegra.ph/file/c8bef84646680c610f509.jpg" width="5000"></a></p> 
-<h1 align="center"><b>Slayer-USERBOT 🇮🇳 </b></h1>
+<h1 align="center"><b>SLAYER-USERBOT 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Telethon. Powered By NoSpam+</h4>
 
 
@@ -20,7 +20,7 @@
 
 # Deploying To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/slayer/slayerbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLAYER-OP/slayerbot)
 
 
 
@@ -41,7 +41,7 @@
 Simply clone the repository and run the main file:
 ```sh
 # Install Git First.
-git clone https://github.com/slayer/slayerbot
+git clone https://github.com/SLAYER-OP/slayerbot
 # Open Git Cloned File
 cd slayerbot
 # Config Virtual Env
