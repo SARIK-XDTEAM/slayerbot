@@ -23,8 +23,8 @@ async def _(event):
         await event.edit(input_str)
 
         animation_chars = [
-            "https://github.com/SARIK-XDTEAM/slayerbot",
-            "https://github.com/SARIK-XDTEAM/slayerbot",
+            "https://github.com/SLAYER-OP/slayerbot",
+            "https://github.com/SLAYER-OP/slayerbot",
         ]
 
         for i in animation_ttl:
