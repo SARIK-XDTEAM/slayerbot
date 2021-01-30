@@ -1,5 +1,5 @@
 """Check if slayerbot alive. If you change these, you become the gayest gay such that even the gay world will disown you."""
-# CREDITS: @Sarik_xd
+# CREDITS: @
 import time
 
 from uniborg.util import friday_on_cmd, sudo_cmd
@@ -51,10 +51,10 @@ pm_caption += "➥ **Current Branch** :'🄼🄰🄸🄽`\n"
 pm_caption += f"➥ **𝕍𝕖𝕣𝕤𝕚𝕠𝕟** : `6.5`\n"
 pm_caption += f"➥ **ꂵꌦ ꃳꄲꇙꇙ** : {DEFAULTUSER} \n"
 pm_caption += "➥ **Heroku Database** : `AWS - Working Properly`\n\n"
-pm_caption += "➥ **License** : [GNU General Public License v3.0](github.com/SARIKXD-TREAM/slayerbot/blob/master/LICENSE)\n"
-pm_caption += "➥ **Copyright** : By [SARIK-XDTEAM@Github](GitHub.com/SARIK-XDTEAM)\n"
+pm_caption += "➥ **License** : [GNU General Public License v3.0](github.com/SLAYER-OP/slayerbot/blob/master/LICENSE)\n"
+pm_caption += "➥ **Copyright** : By [SLAYER-OP@Github](GitHub.com/SLAYER-OP)\n"
 pm_caption += "➥ **Check Stats By Doing** `.stat`. \n\n"
-pm_caption += "[🇮🇳 𝘿𝙚𝙥𝙡𝙤𝙮 𝙎𝙇𝘼𝙔𝙀𝙍𝙐𝙎𝙀𝙍𝘽𝙊𝙏 🇮🇳](https://github.com/SARIK-XDTEAM/slayerbot)"
+pm_caption += "[🇮🇳 𝘿𝙚𝙥𝙡𝙤𝙮 𝙎𝙇𝘼𝙔𝙀𝙍𝙐𝙎𝙀𝙍𝘽𝙊𝙏 🇮🇳](https://github.com/SLAYER-OP/slayerbot)"
 
 
 @friday.on(friday_on_cmd(pattern=r"alive"))
