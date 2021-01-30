@@ -12,7 +12,7 @@
 
 <a href="https://t.me/slayer_userbot_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a
+<a href="https://t.me/slayer_userbot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a
 
 
 
@@ -20,7 +20,7 @@
 
 # Deploying To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SARIK-XDTEAM/slayerbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/slayer/slayerbot)
 
 
 
@@ -41,7 +41,7 @@
 Simply clone the repository and run the main file:
 ```sh
 # Install Git First.
-git clone https://github.com/SARIK-XDTEAM/slayerbot
+git clone https://github.com/slayer/slayerbot
 # Open Git Cloned File
 cd slayerbot
 # Config Virtual Env
